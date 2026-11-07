@@ -1,0 +1,16 @@
+.footer-box {
+    background-color: #20123a;
+    color: white;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+}
+
+.footer-link {
+    color: white;
+}
+
+.footer-link:focus {
+    outline: 2px solid yellow;
+}
